@@ -21,7 +21,7 @@
 		},
 		"ls_cartola_local_properties_typeProperties_host": {
 			"type": "string",
-			"defaultValue": "D:\\Cursos\\Azure\\ADF\\Cartola\\data"
+			"defaultValue": "D:\\Cursos\\Azure\\ADF\\Cartola"
 		},
 		"ls_cartola_local_properties_typeProperties_userId": {
 			"type": "string",
