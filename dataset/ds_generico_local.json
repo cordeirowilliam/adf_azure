@@ -19,11 +19,11 @@
 			"location": {
 				"type": "FileServerLocation",
 				"fileName": {
-					"value": "@dataset().file",
+					"value": "@dataset().diretorio_ano",
 					"type": "Expression"
 				},
 				"folderPath": {
-					"value": "@dataset().diretorio_ano",
+					"value": "@dataset().data",
 					"type": "Expression"
 				}
 			},
