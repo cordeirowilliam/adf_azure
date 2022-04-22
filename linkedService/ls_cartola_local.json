@@ -5,9 +5,9 @@
 		"annotations": [],
 		"type": "FileServer",
 		"typeProperties": {
-			"host": "D:\\Cursos\\Azure\\ADF\\Cartola\\data",
+			"host": "D:\\Cursos\\Azure\\ADF\\Cartola",
 			"userId": "William",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJkODU3YTc2My1hN2FhLTQzZDgtODU0OC01ZjZhOGRhOGI3ZTAiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJiNzU0OWVhMi1jNWE3LTQzNGEtOTJiOC00MTc1YzliNDM0Y2QiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "iradf",
