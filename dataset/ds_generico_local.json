@@ -23,7 +23,7 @@
 					"type": "Expression"
 				},
 				"folderPath": {
-					"value": "@dataset().data",
+					"value": "@dataset().diretorio_ano",
 					"type": "Expression"
 				}
 			},
