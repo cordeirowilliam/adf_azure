@@ -1,0 +1,9 @@
+{
+	"name": "adf-curso-udemy-william",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e1d4b026-bf94-46fb-9094-3298d8a1ed02",
+		"tenantId": "fbb8fb60-e3f7-49a6-9555-207474f2cbab"
+	}
+}
