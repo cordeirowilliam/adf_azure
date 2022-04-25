@@ -25,7 +25,7 @@
 		},
 		"ls_cartola_local_properties_typeProperties_host": {
 			"type": "string",
-			"defaultValue": "D:\\Cursos\\Azure\\ADF\\Cartola"
+			"defaultValue": "D:\\Cursos\\Azure\\ADF\\Cartola\\data"
 		},
 		"ls_cartola_local_properties_typeProperties_userId": {
 			"type": "string",
@@ -174,6 +174,7 @@
 							],
 							"storeSettings": {
 								"type": "FileServerReadSettings",
+								"recursive": true,
 								"enablePartitionDiscovery": false
 							},
 							"formatSettings": {
